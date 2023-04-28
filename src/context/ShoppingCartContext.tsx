@@ -1,4 +1,4 @@
-import React, { useState, useContext, createContext, ReactNode } from "react";
+import { useState, useContext, createContext, ReactNode } from "react";
 
 type ShoppingCartProviderProps= {
     children: ReactNode
