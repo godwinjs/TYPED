@@ -20,6 +20,6 @@ function App() {
   </ShoppingCartProvider>
   )
 }
-// lATafp15HWA&list=TLPQMjUwNDIwMjP7xdaKqVBbHA&index=4
+
 
 export default App
