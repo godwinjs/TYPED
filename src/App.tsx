@@ -20,6 +20,6 @@ function App() {
   </ShoppingCartProvider>
   )
 }
-// v=lATafp15HWA&list=TLPQMjUwNDIwMjP7xdaKqVBbHA&index=4
+// lATafp15HWA&list=TLPQMjUwNDIwMjP7xdaKqVBbHA&index=4
 
 export default App
