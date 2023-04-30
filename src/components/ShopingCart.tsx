@@ -14,6 +14,7 @@ type CartItemProps = {
     imgUrl: string
 }
 
+
 export function ShoppingCart({ isOpen }: ShoppingCartProps) {
     const { closeCart, cartItems } = useShoppingCart()
 
