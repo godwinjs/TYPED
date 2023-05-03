@@ -4,7 +4,7 @@ import { useShoppingCart } from '../context/ShoppingCartContext'
 
 
 export function Navbar() {
-    const { openCart, cartQuantity } : CartObj = useShoppingCart();
+    const { openCart, cartQuantity } = useShoppingCart();
 
     return <NavbarBs sticky='top' className='bg-white shadow-sm mb-3'>
             <Container>
